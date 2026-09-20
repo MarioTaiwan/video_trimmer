@@ -1,0 +1,6 @@
+PySide6>=6.8
+numpy>=1.26
+torch>=2.2
+silero-vad[onnx-cpu]>=6.0
+onnxruntime>=1.16.1
+faster-whisper>=1.1.0
